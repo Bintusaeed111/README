@@ -14,5 +14,8 @@
     "school"
   ],
   "author": "Bint Saeed",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
